@@ -1,0 +1,1 @@
+npm i axios nodemon snowpack codemirror/basic-setup codemirror/commands codemirror/lang-json codemirror/view popperjs/core axios bootstrap pretty-bytes
