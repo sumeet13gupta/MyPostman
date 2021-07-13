@@ -10,8 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@codemirror/basic-setup": "github:codemirror/basic-setup",
+    "@codemirror/commands": "github:codemirror/commands",
+    "@codemirror/lang-json": "github:codemirror/lang-json",
+    "@codemirror/view": "github:codemirror/view",
+    "@popperjs/core": "^2.9.2",
     "axios": "^0.21.1",
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "pretty-bytes": "^5.6.0"
   },
   "devDependencies": {
     "snowpack": "^3.6.0"
